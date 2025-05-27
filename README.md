@@ -229,6 +229,7 @@ Currently only pytest is required
 
 ## 📁 Project Structure
 
+```plaintext
 clarity-log-parser/
 ├── src/
 │   ├── parser.py           # Task 1 core logic
@@ -241,3 +242,4 @@ clarity-log-parser/
 ├── requirements.txt
 ├── Makefile
 └── README.md
+```
